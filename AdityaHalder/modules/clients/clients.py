@@ -3,7 +3,7 @@ import asyncio, os, sys
 from pyrogram import Client
 from pyrogram import filters
 from pytgcalls import PyTgCalls
-from motor.motor_asyncio import AsyncIOMotorClient
+
 
 from ...console import API_ID, API_HASH, STRING_SESSION
 from ...console import BOT_TOKEN, SESSION_STRING, LOGGER
